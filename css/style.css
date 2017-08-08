@@ -86,7 +86,7 @@ color: #29323c;
 }
 /* Vertical menu that slides from the left or right */
 .cbp-spmenu-right {
-	right: -240px;
+	right: -100%;
 }
 .cbp-spmenu-right.cbp-spmenu-open {
 	right: 0px;
